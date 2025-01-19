@@ -23,7 +23,7 @@ sudo su
 ```
 ***TAHAP 1***
 ```
-apt update -y; apt upgrade -y; apt install gnupg tmux python3 -y; tmux new -s fn
+apt update -y; apt install gnupg tmux python3 -y; tmux new -s fn
 ```
 ***TAHAP 2***
 ```
